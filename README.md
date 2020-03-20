@@ -1,5 +1,9 @@
 # Aoang's Wiki
 
+[![Build Status](https://github.com/Aoang/wiki/workflows/Build/badge.svg)](https://github.com/Aoang/wiki)
+
+---
+
 > 书山有路勤为径，学海无涯苦作舟。
 
 人类自诞生以来，一直在进化，也一直在退化。
